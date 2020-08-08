@@ -1,4 +1,4 @@
-![Proffy](https://github.com/ldevLucasl/Proffy-NLW/blob/master/web/src/assets/logo.svg)
+![Proffy](https://github.com/ldevLucasl/Proffy-NLW/blob/master/web/src/assets/images/logo.svg)
 # Proffy
 > Project developed as a study in TypeScript, ReactJS, NodeJS, ReactNative and SQLite
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square) 
@@ -10,7 +10,7 @@
 [![INSERT YOUR GRAPHIC HERE](https://imgur.com/V76PZw7.png)]()
 > GIF Tools
 
-![ttystudio GIF](https://imgur.com/XD6aCLd.gif)
+![ttystudio GIF](https://imgur.com/6s0akrt.gif)
 
 ### Clone
 
